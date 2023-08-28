@@ -1,6 +1,198 @@
  [
     {
       "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Synthwave/SYNTHWAVE-16.jpg",
+      "name": "Synthwave 16",
+      "collections": "Synthwave"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Synthwave/SYNTHWAVE-15.jpg",
+      "name": "Synthwave 15",
+      "collections": "Synthwave"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Animal/ANIMAL-10.jpg",
+      "name": "Animal 10",
+      "collections": "Animal"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Animal/ANIMAL-9.jpg",
+      "name": "Animal 9",
+      "collections": "Animal"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-28.jpg",
+      "name": "Cars 28",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-27.jpg",
+      "name": "Cars 27",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-26.jpg",
+      "name": "Cars 26",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-25.jpg",
+      "name": "Cars 25",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HEROES-15.jpg",
+      "name": "Heroes 15",
+      "collections": "Heroes"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-55.jpg",
+      "name": "OLED 55",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-54.jpg",
+      "name": "OLED 54",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-53.jpg",
+      "name": "OLED 53",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-56.jpg",
+      "name": "Nature 56",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-55.jpg",
+      "name": "Nature 55",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-54.jpg",
+      "name": "Nature 54",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-53.jpg",
+      "name": "Nature 53",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-52.jpg",
+      "name": "Nature 52",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Gradients/GRADIENT-17.jpg",
+      "name": "Gradients 17",
+      "collections": "Gradients"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Abstract/ABSTRACT-50.jpg",
+      "name": "Abstract 50",
+      "collections": "Abstract"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Abstract/ABSTRACT-49.jpg",
+      "name": "Abstract 49",
+      "collections": "Abstract"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Anime%20Style/ANIME-20.jpg",
+      "name": "Anime Style 20",
+      "collections": "Anime Style"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-51.jpg",
+      "name": "Nature 51",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-50.jpg",
+      "name": "Nature 50",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-49.jpg",
+      "name": "Nature 49",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-48.jpg",
+      "name": "Nature 48",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-47.jpg",
+      "name": "Nature 47",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-46.jpg",
+      "name": "Nature 46",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-24.jpg",
+      "name": "Cars 24",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-23.jpg",
+      "name": "Cars 23",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-22.jpg",
+      "name": "Cars 22",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-21.jpg",
+      "name": "Cars 21",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-20.jpg",
+      "name": "Cars 20",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Abstract/ABSTRACT-47.jpg",
       "name": "Abstract 47",
       "collections": "Abstract"
