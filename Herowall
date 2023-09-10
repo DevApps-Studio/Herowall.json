@@ -1,6 +1,192 @@
  [
     {
       "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-61.jpg",
+      "name": "Nature 61",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-60.jpg",
+      "name": "Nature 60",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-59.jpg",
+      "name": "Nature 59",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-58.jpg",
+      "name": "Nature 58",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-57.jpg",
+      "name": "Nature 57",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Urban/URBAN-23.jpg",
+      "name": "Urban 23",
+      "collections": "Urban"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Abstract/ABSTRACT-53.jpg",
+      "name": "Abstract 53",
+      "collections": "Abstract"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Abstract/ABSTRACT-52.jpg",
+      "name": "Abstract 52",
+      "collections": "Abstract"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Abstract/ABSTRACT-51.jpg",
+      "name": "Abstract 51",
+      "collections": "Abstract"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-59.jpg",
+      "name": "OLED 59",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-58.jpg",
+      "name": "OLED 58",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-57.jpg",
+      "name": "OLED 57",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-56.jpg",
+      "name": "OLED 56",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HEROES-16.jpg",
+      "name": "Heroes 16",
+      "collections": "Heroes"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Gradients/GRADIENT-18.jpg",
+      "name": "Gradients 18",
+      "collections": "Gradients"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Gaming/GAMING-13.jpg",
+      "name": "Gaming 13",
+      "collections": "Gaming"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-29.jpg",
+      "name": "Cars 29",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Anime%20Style/ANIME-23.jpg",
+      "name": "Anime Style 23",
+      "collections": "Anime Style"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Anime%20Style/ANIME-22.jpg",
+      "name": "Anime Style 22",
+      "collections": "Anime Style"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Anime%20Style/ANIME-21.jpg",
+      "name": "Anime Style 21",
+      "collections": "Anime Style"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-81.jpg",
+      "name": "Minimalist Design 81",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-80.jpg",
+      "name": "Minimalist Design 80",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-79.jpg",
+      "name": "Minimalist Design 79",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-78.jpg",
+      "name": "Minimalist Design 78",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-77.jpg",
+      "name": "Minimalist Design 77",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-76.jpg",
+      "name": "Minimalist Design 76",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-75.jpg",
+      "name": "Minimalist Design 75",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-74.jpg",
+      "name": "Minimalist Design 74",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-73.jpg",
+      "name": "Minimalist Design 73",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-72.jpg",
+      "name": "Minimalist Design 72",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Minimalist%20Design/MINIMAL-71.jpg",
+      "name": "Minimalist Design 71",
+      "collections": "Minimalist Design"
+    },
+    {
+      "author": "HeroWall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Synthwave/SYNTHWAVE-16.jpg",
       "name": "Synthwave 16",
       "collections": "Synthwave"
