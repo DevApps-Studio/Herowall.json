@@ -1,6 +1,66 @@
  [
     {
       "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-63.jpg",
+      "name": "OLED 63",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-62.jpg",
+      "name": "OLED 62",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-61.jpg",
+      "name": "OLED 61",
+      "collections": "OLED"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Gaming/GAMING-14.jpg",
+      "name": "Gaming 14",
+      "collections": "Gaming"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Cars/CAR-31.jpg",
+      "name": "Cars 31",
+      "collections": "Cars"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-69.jpg",
+      "name": "Nature 69",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-68.jpg",
+      "name": "Nature 68",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-67.jpg",
+      "name": "Nature 67",
+      "collections": "Nature"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Animal/ANIMAL-12.jpg",
+      "name": "Animal 12",
+      "collections": "Animal"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Animal/ANIMAL-11.jpg",
+      "name": "Animal 11",
+      "collections": "Animal"
+    },
+    {
+      "author": "HeroWall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Urban/26.jpg",
       "name": "Urban 26",
       "collections": "Urban"
