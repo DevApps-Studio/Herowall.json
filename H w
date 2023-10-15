@@ -1,6 +1,90 @@
  [
     {
       "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-76.jpg",
+      "name": "NATURE 76",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-75.jpg",
+      "name": "NATURE 75",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-74.jpg",
+      "name": "NATURE 74",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-73.jpg",
+      "name": "NATURE 73",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-72.jpg",
+      "name": "NATURE 72",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-71.jpg",
+      "name": "NATURE 71",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Nature/NATURE-70.jpg",
+      "name": "NATURE 70",
+      "collections": "NATURE"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-26.jpg",
+      "name": "HEROES 26",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-25.jpg",
+      "name": "HEROES 25",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-24.png",
+      "name": "HEROES 24",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-23.png",
+      "name": "HEROES 23",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-22.jpg",
+      "name": "HEROES 22",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-21.jpg",
+      "name": "HEROES 21",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/Heroes/HERO-20.jpg",
+      "name": "HEROES 20",
+      "collections": "HEROES"
+    },
+    {
+      "author": "HeroWall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/Herowall.json/main/OLED/OLED-63.jpg",
       "name": "OLED 63",
       "collections": "OLED"
